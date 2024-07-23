@@ -13,4 +13,6 @@ _chat spam is a website to detect whether the email is identified as spam email 
    ```sh
    pip install -r requirements.txt
    ```
+### Online Deploy
+https://emailspam.azurewebsites.net
 
